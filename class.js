@@ -19,4 +19,4 @@ console.log(temperature.c)
 
 temperature.c = 4
 console.log(temperature.c)
-console.log("Hello")
+console.log("I have added a new line.")
